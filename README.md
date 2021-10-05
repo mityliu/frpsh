@@ -10,4 +10,4 @@ Deployments 页面，应用 Frps 的 Network 选项卡中，80 端口（用于�
 
 因为自用，故没有设置连接用的密码（Token）。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/lililiwuming/frpsh/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mityliu/frpsh/main/)
